@@ -1,0 +1,6 @@
+bgp_updates             in_updates:COUNTER:0:281474976710656, out_updates:COUNTER:0:281474976710656
+interface               rx_bytes:DERIVE:0:U, tx_bytes:DERIVE:0:U, rx_pkts:DERIVE:0:U, tx_pkts:DERIVE:0:U, rx_err:DERIVE:0:U, tx_err:DERIVE:0:U
+junos_bgp               in_updates:COUNTER:0:4294967295, out_updates:COUNTER:0:4294967295
+junos_cpu               re0:GAUGE:0:4294967295, re1:GAUGE:0:4294967295
+junos_mem               re0:GAUGE:0:281474976710656, re1:GAUGE:0:281474976710656
+junos_temp		re0:GAUGE:0:4294967295, re1:GAUGE:0:4294967295
